@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{B425ECD7-AFA3-43F2-93D0-05055A9867C2}|Default">
+  <MonoDevelop.Ide.ItemProperties.WeatherApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Log">
+    <Files>
+      <File FileName="Weather (4) Status" />
+      <File FileName="Log" />
+      <File FileName="../../../../Library/Frameworks/Xamarin.iOS.framework/Versions/10.10.0.36/lib/msbuild/iOS/Xamarin.iOS.Common.targets" Line="605" Column="3" />
+      <File FileName="Log" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <AuthorInfo Name="isispamelarios" Email="" Copyright="" Company="" Trademark="" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.WeatherApp.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Android_Accelerated_x86" AndroidDesignerPreferredTheme="Theme.DeviceDefault" />
+</Properties>
